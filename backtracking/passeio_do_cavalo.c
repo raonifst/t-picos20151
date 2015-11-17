@@ -1,9 +1,10 @@
 /*
 Questões:
 1) Entenda e comente o código abaixo.
-2) Teste o programa para diferentes valores de N (linha 8).
+2) Teste o programa para diferentes valores de N (linha 8) e 
+   diferentes posições iniciais (x e y nas linhas 81 e 82).
 */
-#include <stdio.h>
+#include <stdio.h> 
 
 #define N 6
 
